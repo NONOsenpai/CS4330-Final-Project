@@ -1,6 +1,6 @@
 
-Sarah Twomey
-David Emily
+Sarah Twomey,
+David Emily, and
 Alyssa Nielsen
 
 
